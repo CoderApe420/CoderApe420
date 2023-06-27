@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderApe420
+- 👋 Hi, I’m @CoderApe420 a front and backend developer
 - 👀 I’m interested in Java, Javascript, PHP, Phython, C#, SQL and ZaZa
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me [email: galaxy2299xx@gmail.com]
